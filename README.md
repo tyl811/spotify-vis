@@ -1,5 +1,5 @@
 # spotify-vis
 # New spotify vis
-Go to myvisualizer.com
+Go to tyl811.github.io/visualize
 
 Play songs!
