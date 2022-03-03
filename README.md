@@ -1,5 +1,5 @@
 # spotify-vis
 # New spotify vis
-Go to spotifyviz.com
+Go to myvisualizer.com
 
 Play songs!
